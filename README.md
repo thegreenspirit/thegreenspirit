@@ -1,5 +1,5 @@
 <h1 align="center">~~The Green Spirit~~</h1>
-<h2 align="center">Welcome folks, to the pages of the pages!<h2>
+<h2 align="center">Welcome folks, to the pages of the pages!</h2>
 
 ## Here are some nice widgets:
 [![TGS's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thegreenspirit&hide_border=true&theme=chartreuse-dark&custom_title=the%20languages)](http://sonic.sega.jp/SonicTheHedgehog4/)<br>
