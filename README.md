@@ -1,11 +1,15 @@
-# Welcome to...
-## The Green Spirit's page of the pages!
+<h1 align="center">~~The Green Spirit~~</h1>
+<h2 align="center">Welcome folks, to the pages of the pages!<h2>
 
-### WOO yeah hahaa mmm:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thegreenspirit&layout=compact&theme=dark)](https://github.com/thegreenspirit)
-* g
-* g
-* g
+## Here are some nice widgets:
+[![TGS's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thegreenspirit&hide_border=true&theme=chartreuse-dark)](http://sonic.sega.jp/SonicTheHedgehog4/)<br>
+[![TGS's stats](https://github-readme-stats.vercel.app/api?username=thegreenspirit&hide_border=true&theme=chartreuse-dark&show_icons=true&icon_color=348b1f)](https://tcrf.net/Prerelease:Sonic_Mania)
 
-### fun fact:
+## Here are some of my facts and opinions:
+* silonic so cool
+* certified retro engine modder
+* the sonic mania media demo is cool
+* please optimize the origins main menus please<br>
+
+## And, heres a fun fact!
 * my origins: https://www.roblox.com/users/467958747/profile
