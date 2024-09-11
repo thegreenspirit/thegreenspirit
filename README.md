@@ -1,15 +1,18 @@
-<h1 align="center">~~The Green Spirit~~</h1>
-<h2 align="center">Welcome folks, to the pages of the pages!</h2>
+<h1 align="center">~~ Green Spirit ~~</h1>
+<h2 align="center">welcome to this weird readme</h2>
 
-<!-- ## Here are some nice widgets:
-[![TGS's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thegreenspirit&hide_border=true&theme=chartreuse-dark&custom_title=the%20languages)](http://sonic.sega.jp/SonicTheHedgehog4/)<br>
-[![TGS's stats](https://github-readme-stats.vercel.app/api?username=thegreenspirit&hide_border=true&theme=chartreuse-dark&show_icons=true&icon_color=348b1f&include_all_commits=true&custom_title=look%20at%20those%20details!!!)](https://tcrf.net/Prerelease:Sonic_Mania) -->
+## stats.
+<a href="https://sonic.sega.jp/SonicTheHedgehog4/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreenspirit&hide_border=true&theme=chartreuse-dark&custom_title=the%20languages" />
+</a>
+<a href="https://tcrf.net/Prerelease:Sonic_Mania">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thegreenspirit&hide_border=true&theme=chartreuse-dark&show_icons=true&icon_color=348b1f&include_all_commits=true&custom_title=look%20at%20those%20details!!!" />
+</a>
 
-## Here are some of my facts and opinions:
+## facts and opinions.
+* i love facebook webgames
 * silonic so cool
-* certified retro engine modder
+* certified retro engine tinkerer
 * the sonic mania media demo is cool
-* please optimize the origins main menus please<br>
-
-## And, heres a fun fact!
+* please optimize the origins main menus please
 * my origins: https://www.roblox.com/users/467958747/profile
